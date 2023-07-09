@@ -1,0 +1,587 @@
+@media only screen and (max-width: 1200px) {
+    /* body {
+        background-color: red;
+    } */
+
+    .img img {
+        margin-right: 30px;
+    }
+
+
+
+    ul li {
+        padding-right: 16px;
+    }
+
+    ul li a {
+        font-size: 23px;
+    }
+
+    .col-left {
+        flex-basis: 100%;
+        /* border: 1px solid #000; */
+    }
+
+    .col-middle {
+        flex-basis: 100%;
+        /* border: 1px solid #000; */
+
+    }
+
+    .small-container {
+        padding-top: 2%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .small-con-con-col-1 {
+        width: 290px;
+        height: 400px;
+        border: 1px solid #000;
+        margin-right: 1px;
+    }
+
+    .experian-container-2 {
+        margin: 0px 0%;
+    }
+
+    .exper-col-2 {
+        width: 300px;
+        height: 450px;
+        border: 1px solid #000;
+        margin-bottom: 2%;
+    }
+
+    .exper-col-2 h3 {
+        font-size: 18px;
+    }
+
+    .exper-col-2 button {
+        /* margin-left: 61%; */
+        margin-right: 6%;
+        padding: 4px 17px;
+        font-size: 12px;
+
+    }
+
+    .wedding-container {
+        width: 100%;
+        height: 73vh;
+    }
+
+    .exper-col-2 p {
+        font-size: 14px;
+    }
+
+    .inspering-thime {
+        margin: 40px 2%;
+    }
+
+    .it-col-1 {
+        width: 340px;
+        /* height: 420px; */
+        margin-right: 10px;
+        /* border: 2px #000 solid; */
+    }
+
+    .it-col-1 h3 {
+        font-size: 20px;
+    }
+
+    .it-col-1 p {
+        font-size: 16px;
+    }
+
+    .it-col-1 img {
+        width: 100%;
+        height: 70%;
+    }
+
+    .etw-text p {
+        font-size: 16px;
+        width: 90%;
+    }
+
+    .etw-col-1ii {
+        width: 320px;
+        height: 450px;
+        /* border: 2px solid #000; */
+        box-shadow: 2px 2px 2px 2px #666262;
+        margin-bottom: 4%;
+    }
+
+    .Signature-Restaurants {
+        padding-top: 32px;
+
+    }
+
+    .Sr-box {
+        flex-basis: 100%;
+    }
+
+    .Signature-Restaurants-container {
+        width: 100%;
+
+    }
+
+    .featured-offers {
+        margin: 10% 2%;
+    }
+
+    .featured-offerd {
+        width: 100%;
+    }
+
+    .bookwide-text {
+        padding: 0% 3%;
+        /* text-align: center; */
+    }
+
+    .fap-container {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+}
+
+@media only screen and (max-width: 885px) {
+    ul li a {
+        font-size: 18px;
+    }
+
+    .small-con-con-col-1 {
+        width: 250px;
+        height: 400px;
+        border: 1px solid #000;
+        margin-bottom: 10px;
+    }
+
+    .small-con-con-col-1 img {
+        width: 100%;
+        height: 70%;
+    }
+
+    .offerr-text h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #746d6d;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 430px) {
+    /* body {
+        background-color: rgb(29, 6, 10);
+    } */
+
+    .navbar {
+        flex-direction: column;
+    }
+
+    .img img {
+        width: 40px;
+        height: 40px;
+        margin-right: 20px;
+    }
+
+
+    ul li {
+        list-style: none;
+        padding-right: 4px;
+
+    }
+
+    ul li a {
+        text-decoration: none;
+        color: rgb(214, 95, 95);
+        font-weight: 900;
+        font-size: 12px;
+    }
+
+    .h2 {
+        padding-top: 41%;
+        font-size: 35px;
+    }
+
+    .text-text h2 {
+        font-size: 24px;
+        margin-bottom: 2%;
+    }
+
+    .text-text p {
+        font-size: 14px;
+        font-weight: 200;
+    }
+
+    .text-text b {
+        font-size: 12px;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+
+    .col-middle h2 {
+        padding-top: 3%;
+        font-size: 26px;
+        color: #181616;
+        padding-bottom: 0%;
+    }
+
+    .col-middle p {
+        font-size: 17px;
+        color: #463c3c;
+        padding-bottom: 5%;
+        text-align: left;
+        text-align-last: left;
+    }
+
+    .btn-white button {
+        padding: 7px 28px;
+        border-radius: 8px;
+    }
+
+    .small-container h2 {
+        font-size: 30px;
+        color: #787171;
+        text-transform: capitalize;
+        margin-bottom: 3%;
+    }
+
+    .footer-col-1 h3 {
+        font-size: 14px;
+        padding-bottom: 6px;
+    }
+
+    .footer-col-1 {
+        width: 100%;
+        height: 150px;
+        text-align: center;
+    }
+
+    .footer-col-1 button {
+        padding: 8px 19px;
+        background-color: rgb(227, 189, 93);
+        color: #fff;
+        outline: none;
+        border: none;
+        border-radius: 10px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .footer-col-1 h4 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .wedding-container {
+        width: 100%;
+        height: 28vh;
+    }
+
+    .padding h2 {
+        font-size: 30px;
+        font-weight: 400;
+        margin-bottom: 3%;
+    }
+
+    .padding p {
+        font-size: 18px;
+        font-weight: 400;
+        margin-bottom: 3%;
+    }
+
+    .h22 {
+        text-align: center;
+        padding-top: 43px;
+        font-size: 31px;
+        font-weight: 300;
+    }
+
+    .inspering-thime {
+        flex-direction: column;
+    }
+
+    .it-col-1 {
+        margin-bottom: 20px;
+    }
+
+    .etw-text h2 {
+        font-size: 25px;
+        font-weight: 400;
+
+    }
+
+    .etw-text p {
+        font-size: 12px;
+        width: 95%;
+    }
+
+    .ud-container h2 {
+        font-size: 30px;
+        color: #787171;
+        font-weight: 400;
+    }
+
+    .ud-con-text {
+        width: 90%;
+        padding: 4%;
+        /* margin: 20px auto; */
+        /* border: 2px solid #797373; */
+    }
+
+    .Signature-Restaurants h2 {
+        font-size: 30px;
+        color: #787171;
+        font-weight: 600;
+    }
+
+    .Sr-box h3 {
+        padding-left: 15px;
+        font-size: 16px;
+    }
+
+    .Sr-box h6 {
+        padding-left: 15px;
+        font-size: 10px;
+        color: #746d6d;
+        padding-bottom: 10px;
+    }
+
+    .Sr-box button {
+        border: none;
+        outline: none;
+        padding: 10px 18px;
+        margin-left: 31%;
+        background-color: goldenrod;
+        color: #fff;
+        border-radius: 10px;
+    }
+
+    .royal-expen h2 {
+        text-align: center;
+        padding-top: 28%;
+        font-size: 39px;
+        color: #fff;
+        font-weight: 600;
+        text-shadow: 10px 4px 17px #000;
+        padding-bottom: 2%;
+    }
+
+    .royal-expen p {
+        text-align: center;
+        font-size: 16px;
+        color: #fff;
+        font-weight: 400;
+        text-shadow: 10px 4px 17px #000;
+        padding-bottom: 2%;
+    }
+
+    .royal-expen button {
+        margin-left: 27%;
+        border: none;
+        outline: none;
+        padding: 10px 46px;
+        background-color: goldenrod;
+        color: #fff;
+        border-radius: 10px;
+    }
+
+    .taj-holiday h2 {
+        text-align: center;
+        margin-bottom: 2%;
+        font-size: 33px;
+        color: #585656;
+        font-weight: 600;
+    }
+
+    .taj-holiday p {
+        text-align: center;
+        margin-bottom: 2%;
+        font-size: 12px;
+        color: rgb(86, 82, 82);
+        font-weight: 600;
+        text-align: left;
+        text-align-last: center;
+    }
+
+    .featured-offerd {
+        flex-direction: column;
+    }
+
+    .featured-offerd-box {
+        flex-basis: 100%;
+        border: 1px solid #000;
+        margin-bottom: 10px;
+    }
+
+    .featured-offerd-box img {
+        width: 100%;
+        padding-bottom: 0%;
+    }
+
+    .featured-offerd-box h3 {
+        padding-left: 8%;
+        margin-bottom: 1%;
+        font-size: 20px;
+        color: #666262;
+    }
+
+    .featured-offerd-box p {
+        padding-left: 8%;
+        padding-right: 8%;
+        margin-bottom: 0%;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .featured-offerd-box button {
+        /* font-size: 14px; */
+        margin-left: 23%;
+        margin-bottom: 50px;
+        background-color: rgb(206, 155, 28);
+        color: #fff;
+        padding: 7px 19px;
+        border: none;
+        outline: none;
+        border-radius: 7px;
+    }
+
+    .ie h2 {
+        text-align: center;
+        font-size: 32px;
+        color: #817272;
+    }
+
+    .ie-container {
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+
+    .ie-col-text {
+        flex-direction: column;
+    }
+
+    .ie h2 {
+        text-align: center;
+        font-size: 25px;
+        color: #817272;
+    }
+
+    .col-textt p {
+        font-size: 16px;
+        color: #585656;
+    }
+
+    .bussiness-text {
+        padding-top: 0%;
+        padding-left: 4%;
+    }
+
+    .bussiness-text h3 {
+        color: #fff;
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 400;
+        text-shadow: 3px 3px 3px #000;
+    }
+
+    .bussines-button button {
+        padding: 8px 23px;
+        color: blue;
+        font-size: 11px;
+        font-weight: 400;
+        outline: none;
+        border: 3px solid blue;
+    }
+
+    .business-container {
+        background-image: url(./image/CB.PNG);
+        background-size: contain;
+        width: 100%;
+        height: 45vh;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+
+    .bookwide-text h3 {
+        font-size: 23px;
+
+    }
+
+    .bookwide-text p {
+        font-size: 13px;
+        font-weight: 900;
+        margin-bottom: 5%;
+    }
+
+    .member-special {
+        box-shadow: 2px 2px 2px 2px grey;
+        width: 100%;
+        height: 100%;
+    }
+
+    .member-special .row-2 .ms-col-1 {
+        flex-basis: 100%;
+        /* border-right: 1px solid gray; */
+        /* border: 1px solid #000; */
+        border-bottom: 3px solid gray;
+    }
+
+    .member-special .row-2 .ms-col-4 {
+        flex-basis: 100%;
+        /* border-right: 1px solid gray; */
+        /* border: 1px solid #000; */
+    }
+
+    .eap h3 {
+        /* text-align: center;
+        font-size: 26px;
+        color: rgb(68, 68, 177);
+        padding-bottom: 3%; */
+        display: none;
+    }
+
+
+
+    .eap-container {
+        /* flex-direction: column;
+        width: 100%; */
+        display: none;
+    }
+
+    .fap h3 {
+        text-align: center;
+        font-size: 29px;
+        color: rgb(56, 56, 170);
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .fap p {
+        text-align: center;
+        font-size: 18px;
+        color: rgb(14, 14, 15);
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
+
+    details {
+        box-shadow: 2px 2px 2px 2px gray;
+        padding: 2%;
+        font-size: 23px;
+        color: goldenrod;
+        margin-bottom: 2%;
+    }
+
+    details h5 {
+        font-size: 16px;
+        color: gray;
+        padding: 1%;
+    }
+
+
+}
